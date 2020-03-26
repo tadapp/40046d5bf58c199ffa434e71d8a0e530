@@ -1,0 +1,2 @@
+# 40046d5bf58c199ffa434e71d8a0e530
+App id 1CE20-0AAE3-088EA-9EFFC-76DE7, version name - Teste
